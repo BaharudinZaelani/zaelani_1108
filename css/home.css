@@ -159,6 +159,9 @@ header{
     padding: 0 9px;
     font-weight: bold;
 }
+.product-section h1 {
+	margin-top: 15px;
+}
 @media screen and (max-width: 560px) {
 	.beli {
 		width: 100%;
